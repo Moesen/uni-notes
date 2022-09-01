@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3373c8d759ef9763",
+        "id": "5c16ac6e3b4bf180",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -79,7 +79,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -89,8 +89,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -112,26 +112,33 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "e5f1b8a5320d0cb5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "3373c8d759ef9763",
+  "active": "5c16ac6e3b4bf180",
   "lastOpenFiles": [
-    "30300SpacecraftSystems/KnowledgeBase/Sol.md",
-    "30300SpacecraftSystems/KnowledgeBase/Mars2020RoverEquipment.md",
-    "Templates/Test2.md",
-    "30300SpacecraftSystems/KnowledgeBase/Satelite.md",
-    "Templates/Test.md",
-    "2022-08-31.md",
-    "30300SpacecraftSystems/MissionOverview.md",
-    "30300SpacecraftSystems/KnowledgeBase/GEO.md",
-    "30300SpacecraftSystems/KnowledgeBase/LEO.md",
-    "30300SpacecraftSystems/KnowledgeBase/Rover.md"
+    "02405ProbabilityTheory/Formula/General formula for P(A;B).md",
+    "02405ProbabilityTheory/Formula/Counting formula for P(A;B).md",
+    "02405ProbabilityTheory/Topics/Conditional Probability and Independence.md",
+    "2022-09-01.md",
+    "02405ProbabilityTheory/Rules/Proportion and Probability.md",
+    "02405ProbabilityTheory/Topics/Probability.md",
+    "02405ProbabilityTheory/Topics/Odds.md",
+    "02405ProbabilityTheory/Topics/Outcome Space.md",
+    "02405ProbabilityTheory/Topics/Events.md",
+    "02405ProbabilityTheory/Topics/Distributions.md"
   ]
 }

@@ -1,3 +1,8 @@
 {
-  "cssTheme": "tokyonight"
+  "cssTheme": "Things",
+  "interfaceFontFamily": "FiraCode Nerd Font",
+  "textFontFamily": "FiraCode Nerd Font",
+  "monospaceFontFamily": "Fira Mono",
+  "translucency": false,
+  "theme": "obsidian"
 }
