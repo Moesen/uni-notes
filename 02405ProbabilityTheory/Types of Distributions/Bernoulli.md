@@ -1,1 +1,2 @@
 ![[bernoulli.png]]
+[[uniformab.png]]

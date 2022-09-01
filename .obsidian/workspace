@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5c16ac6e3b4bf180",
+        "id": "078ff0c8269c4d32",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "02405ProbabilityTheory/Rules/Summary.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "difference",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02405ProbabilityTheory/Rules/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02405ProbabilityTheory/Rules/Summary.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02405ProbabilityTheory/Rules/Summary.md"
+              }
             }
           },
           {
@@ -121,24 +129,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "5c16ac6e3b4bf180",
+  "active": "078ff0c8269c4d32",
   "lastOpenFiles": [
-    "02405ProbabilityTheory/Formula/General formula for P(A;B).md",
-    "02405ProbabilityTheory/Formula/Counting formula for P(A;B).md",
-    "02405ProbabilityTheory/Topics/Conditional Probability and Independence.md",
-    "2022-09-01.md",
     "02405ProbabilityTheory/Rules/Proportion and Probability.md",
-    "02405ProbabilityTheory/Topics/Probability.md",
+    "02405ProbabilityTheory/Rules/Inclusion-Exclusion.md",
+    "02405ProbabilityTheory/Rules/Compliment.md",
+    "02405ProbabilityTheory/Rules/Difference.md",
     "02405ProbabilityTheory/Topics/Odds.md",
-    "02405ProbabilityTheory/Topics/Outcome Space.md",
-    "02405ProbabilityTheory/Topics/Events.md",
-    "02405ProbabilityTheory/Topics/Distributions.md"
+    "Assets/Bis.png",
+    "Assets/exclusive.png",
+    "Assets/emperical.png",
+    "Assets/distributions.png",
+    "Assets/bernoulli.png"
   ]
 }

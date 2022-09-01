@@ -10,3 +10,4 @@ More generally just about any ratio of chances or probabilities can be called an
 That is another way to say, in a fair bet on an event A, when you win if A occurs and the casino wins otherwise the ratio of your stake to the casino's stake should be [[Probability#Ratio of probabilities |The ratio of probabilities]]
 
 
+![[Bis.png]]
