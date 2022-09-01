@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "dca73e673622286d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3373c8d759ef9763",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4040c93d93c6357",
+    "type": "split",
+    "children": [
+      {
+        "id": "de38f72c697c851a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4075ba0a4f847600",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "083cc9004c7043f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "051296ea9c683537",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1eb29d23349b9f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7f7941e8a888abb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5ccd0b4f1c7aa89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a21476cc0c26942",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "86abae9c24c38316",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a7c41b5d9cdd9ebb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3373c8d759ef9763",
+  "lastOpenFiles": [
+    "30300SpacecraftSystems/KnowledgeBase/Sol.md",
+    "30300SpacecraftSystems/KnowledgeBase/Mars2020RoverEquipment.md",
+    "Templates/Test2.md",
+    "30300SpacecraftSystems/KnowledgeBase/Satelite.md",
+    "Templates/Test.md",
+    "2022-08-31.md",
+    "30300SpacecraftSystems/MissionOverview.md",
+    "30300SpacecraftSystems/KnowledgeBase/GEO.md",
+    "30300SpacecraftSystems/KnowledgeBase/LEO.md",
+    "30300SpacecraftSystems/KnowledgeBase/Rover.md"
+  ]
+}
