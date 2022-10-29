@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "078ff0c8269c4d32",
+        "id": "530a2d4ae5633adc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02405ProbabilityTheory/Rules/Summary.md",
-            "mode": "preview",
+            "file": "02405ProbabilityTheory/Topics/Distributions.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02405ProbabilityTheory/Rules/Summary.md",
+                "file": "02405ProbabilityTheory/Topics/Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02405ProbabilityTheory/Rules/Summary.md",
+                "file": "02405ProbabilityTheory/Topics/Distributions.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02405ProbabilityTheory/Rules/Summary.md"
+                "file": "02405ProbabilityTheory/Topics/Distributions.md"
               }
             }
           },
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "078ff0c8269c4d32",
+  "active": "530a2d4ae5633adc",
   "lastOpenFiles": [
-    "02405ProbabilityTheory/Rules/Proportion and Probability.md",
-    "02405ProbabilityTheory/Rules/Inclusion-Exclusion.md",
-    "02405ProbabilityTheory/Rules/Compliment.md",
-    "02405ProbabilityTheory/Rules/Difference.md",
+    "02405ProbabilityTheory/Topics/Events.md",
+    "02405ProbabilityTheory/Topics/Distributions.md",
+    "02405ProbabilityTheory/Topics/Conditional Probability and Independence.md",
+    "02405ProbabilityTheory/Exercises/Sep 9.md",
     "02405ProbabilityTheory/Topics/Odds.md",
-    "Assets/Bis.png",
-    "Assets/exclusive.png",
-    "Assets/emperical.png",
-    "Assets/distributions.png",
-    "Assets/bernoulli.png"
+    "02405ProbabilityTheory/Topics/Outcome Space.md",
+    "02405ProbabilityTheory/Topics/Wordlist.md",
+    "02405ProbabilityTheory/Topics/Probability.md",
+    "Mean Value.md",
+    "30300SpacecraftSystems/Assignments/Home Assignment Chapter 6-7.md"
   ]
 }
